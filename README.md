@@ -1,6 +1,5 @@
-- Hi, I’m @Merilosity
+
 - I’m currently enrolled in the Master in Human Computer Interaction at the Ludwig- Maxmilians University in Munich.
-- My current goals are to start small projects based off of Design Patterns I've never used before.
 
 
 <!---
